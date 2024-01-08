@@ -1,0 +1,36 @@
+2024-01-08 19:18:17 :  Spark session started
+2024-01-08 19:18:17 : Data Analysis startecd
+2024-01-08 19:18:17 : Analysis of Problem  1 started 
+2024-01-08 19:18:24 : Dataframe created from the csv file ./DataSets/Data/Charges_use.csv
+2024-01-08 19:18:24 : Analysis of Problem  1 completed 
+2024-01-08 19:18:26 : Output has been loaded for Problem  1 
+2024-01-08 19:18:26 : Analysis of Problem  2 started 
+2024-01-08 19:18:27 : Dataframe created from the csv file ./DataSets/Data/Units_use.csv
+2024-01-08 19:18:27 : Analysis of Problem  2 completed 
+2024-01-08 19:18:28 : Output has been loaded for Problem  2 
+2024-01-08 19:18:28 : Analysis of Problem  3 started 
+2024-01-08 19:18:29 : Analysis of Problem  3 completed 
+2024-01-08 19:18:31 : Output has been loaded for Problem  3 
+2024-01-08 19:18:31 : Analysis of Problem  4 started 
+2024-01-08 19:18:31 : Analysis of Problem  4 completed 
+2024-01-08 19:18:32 : Output has been loaded for Problem  4 
+2024-01-08 19:18:32 : Analysis of Problem  5 started 
+2024-01-08 19:18:32 : Analysis of Problem  5 completed 
+2024-01-08 19:18:33 : Output has been loaded for Problem  5 
+2024-01-08 19:18:33 : Analysis of Problem  6 started 
+2024-01-08 19:18:33 : Analysis of Problem  6 completed 
+2024-01-08 19:18:35 : Output has been loaded for Problem  6 
+2024-01-08 19:18:35 : Analysis of Problem  7 started 
+2024-01-08 19:18:35 : Analysis of Problem  7 completed 
+2024-01-08 19:18:36 : Output has been loaded for Problem  7 
+2024-01-08 19:18:36 : Analysis of Problem  8 started 
+2024-01-08 19:18:36 : Analysis of Problem  8 completed 
+2024-01-08 19:18:37 : Output has been loaded for Problem  8 
+2024-01-08 19:18:37 : Analysis of Problem  9 started 
+2024-01-08 19:18:37 : Analysis of Problem  9 completed 
+2024-01-08 19:18:38 : Output has been loaded for Problem 9 
+2024-01-08 19:18:38 : Analysis of Problem  10 started 
+2024-01-08 19:18:39 : Analysis of Problem  10 completed 
+2024-01-08 19:18:41 : Output has been loaded for Problem 10 
+2024-01-08 19:18:41 : Data Analysis completed
+2024-01-08 19:18:41 : Spark Session stopped 
