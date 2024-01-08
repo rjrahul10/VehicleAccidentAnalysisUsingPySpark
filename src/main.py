@@ -17,8 +17,12 @@ if __name__ == '__main__':
     logfile = cfg.get('log_file')
 
     logger = Logger(logfile)
-
-    spark = SparkSession.builder.getOrCreate()
+ 
+    if args.appname is None:
+        appname = 'Spark'
+    else:
+        appname = args.appname
+    spark = SparkSession.builder.appName(appname).getOrCreate()
     logger.info(datetime.now().strftime('%Y-%m-%d %H:%M:%S :') + "  Spark session started")
 
     runner = Job(spark, cfg, logger)
