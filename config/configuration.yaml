@@ -1,0 +1,8 @@
+log_file: ./logs/Veh_Analysis_
+DS_Charges: ./DataSets/Data/Charges_use.csv
+DS_Damages: ./DataSets/Data/Damages_use.csv
+DS_Endorse: ./DataSets/Data/Endorse_use.csv
+DS_Person:  ./DataSets/Data/Primary_Person_use.csv
+DS_Restrict: ./DataSets/Data/Restrict_use.csv
+DS_Unit: ./DataSets/Data/Units_use.csv
+OUTPUT: ./output/
